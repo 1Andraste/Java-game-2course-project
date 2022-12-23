@@ -1,0 +1,244 @@
+
+galagaSkin.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+white-pixel
+  rotate: false
+  xy: 19, 34
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bee1
+  rotate: false
+  xy: 307, 535
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bee10
+  rotate: false
+  xy: 535, 793
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bee2
+  rotate: false
+  xy: 517, 775
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bee9
+  rotate: false
+  xy: 775, 1033
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+butterfly1
+  rotate: false
+  xy: 1051, 1309
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+butterfly10
+  rotate: false
+  xy: 1033, 1291
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+butterfly2
+  rotate: false
+  xy: 1291, 1549
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+butterfly9
+  rotate: false
+  xy: 793, 1051
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemyShip8
+  rotate: false
+  xy: 259, 453
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+greenBat2
+  rotate: false
+  xy: 517, 793
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+greenBat8
+  rotate: false
+  xy: 1033, 1309
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+greenBat9
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+playerShip8
+  rotate: false
+  xy: 1, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+purpleBat2
+  rotate: false
+  xy: 775, 1051
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+purpleBat8
+  rotate: false
+  xy: 1291, 1567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+purpleBat9
+  rotate: false
+  xy: 1309, 1567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Emulogic08_0
+  rotate: false
+  xy: 1, 1327
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic16_0
+  rotate: false
+  xy: 1, 1069
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic32_0
+  rotate: false
+  xy: 259, 1327
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic32_1
+  rotate: false
+  xy: 1, 811
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic32_2
+  rotate: false
+  xy: 259, 1069
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_0
+  rotate: false
+  xy: 517, 1327
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_1
+  rotate: false
+  xy: 1, 553
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_2
+  rotate: false
+  xy: 259, 811
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_3
+  rotate: false
+  xy: 517, 1069
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_4
+  rotate: false
+  xy: 775, 1327
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_5
+  rotate: false
+  xy: 1, 295
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_6
+  rotate: false
+  xy: 259, 553
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_7
+  rotate: false
+  xy: 517, 811
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Emulogic64_8
+  rotate: false
+  xy: 775, 1069
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ReturnOfGanon16_0
+  rotate: false
+  xy: 1, 37
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ReturnOfGanon32_0
+  rotate: false
+  xy: 1033, 1327
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TractorBeam1
+  rotate: false
+  xy: 259, 471
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1

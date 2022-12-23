@@ -1,0 +1,38 @@
+{
+	"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+		"medium": {
+			"file": "Emulogic16.fnt",
+			"scaledSize": -1,
+			"markupEnabled": false,
+			"flip": false
+		},
+		"big": {
+			"file": "Emulogic32.fnt",
+			"scaledSize": -1,
+			"markupEnabled": false,
+			"flip": false
+		},
+		"small": {
+			"file": "Emulogic08.fnt",
+			"scaledSize": -1,
+			"markupEnabled": false,
+			"flip": false
+		}
+	},
+	"LabelStyle": {
+		"default": {
+			"font": "big"
+		},
+		"small": {
+			"font": "small"
+		},
+		"medium": {
+			"font": "medium"
+		}
+	},
+	"TextButtonStyle": {
+		"small": {
+			"font": "medium"
+		}
+	}
+}
